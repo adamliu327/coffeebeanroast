@@ -100,3 +100,30 @@ footer {
     top: 177px;
     z-index: 0;
 }
+
+#td_1 {
+    width: 15%;
+}
+
+#td_2 {
+    width: 61%;
+}
+
+#td_3 {
+    width: 24%;
+    text-align: center;
+}
+
+#td_4 {
+    width: 80%;
+}
+
+#td_5 {
+    width: 20%;
+    text-align: left;
+}
+
+#Comments {
+    width: 622px;
+    text-align: center;
+}
